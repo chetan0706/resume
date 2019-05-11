@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.12.29)  8 MAY 2019 23:16
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.12.29)  10 MAY 2019 21:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1230,65 +1230,54 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 11.0pt on input line 90.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 90.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not avail
-able
+(Font)              scaled to size 11.0pt on input line 90.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <11> not avai
+lable
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
 t line 90.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 90.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 90.
+(Font)              scaled to size 11.0pt on input line 90.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 90.
+(Font)              scaled to size 11.0pt on input line 90.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 90.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 90.
+(Font)              scaled to size 11.00017pt on input line 90.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.0001pt on input line 90.
+(Font)              scaled to size 7.70007pt on input line 90.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 90.
+(Font)              scaled to size 5.50008pt on input line 90.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 90.
+(Font)              scaled to size 10.99983pt on input line 90.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.9999pt on input line 90.
+(Font)              scaled to size 7.69984pt on input line 90.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 90.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 112.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 112.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <10> not avai
-lable
-(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 112.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 112.
+(Font)              scaled to size 5.49991pt on input line 90.
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 113.
+(Font)              scaled to size 11.0pt on input line 116.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 113.
+(Font)              scaled to size 8.0pt on input line 116.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 113.
+(Font)              scaled to size 8.0pt on input line 116.
 [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 116.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 116.
  (./ck_cover_letter_ic.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 113.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 113.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 116.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 116.
  ) 
 Here is how much of TeX's memory you used:
- 37904 strings out of 493007
- 747848 string characters out of 6136718
- 946900 words of memory out of 5000000
- 41406 multiletter control sequences out of 15000+600000
- 533291 words of font info for 89 fonts, out of 8000000 for 9000
+ 37899 strings out of 493007
+ 747482 string characters out of 6136718
+ 947901 words of memory out of 5000000
+ 41405 multiletter control sequences out of 15000+600000
+ 534331 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,11n,89p,10437b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
 
