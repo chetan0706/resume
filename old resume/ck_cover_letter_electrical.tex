@@ -1,0 +1,104 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Awesome Cover Letter
+% XeLaTeX Template
+% Version 1.1 (9/1/2016)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original authors:
+% Claud D. Park (posquit0.bj@gmail.com)
+% Lars Richter (mail@ayeks.de)
+% With modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important note:
+% This template must be compiled with XeLaTeX, the below lines will ensure this
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt, a4paper]{ishan-cl} % A4 paper size by default, use 'letterpaper' for US letter
+
+\geometry{left=2cm, top=1.5cm, right=2cm, bottom=2cm, footskip=.5cm} % Configure page margins with geometry
+ 
+\fontdir[fonts/] % Specify the location of the included fonts
+
+% Color for highlights
+\colorlet{awesome}{awesome-concrete} % Default colors include: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange, awesome-nephritis, awesome-concrete, awesome-darknight
+%\definecolor{awesome}{HTML}{CA63A8} % Uncomment if you would like to specify your own color
+
+% Colors for text - uncomment and modify
+%\definecolor{darktext}{HTML}{414141}
+%\definecolor{text}{HTML}{414141}
+%\definecolor{graytext}{HTML}{414141}
+%\definecolor{lighttext}{HTML}{414141}
+
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad} % If you would like to change the social information separator from a pipe (|) to something else
+
+%----------------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%----------------------------------------------------------------------------------------
+
+\name{\textbf{Chetan}}{Kansagara}
+%\address{}
+\mobile{(+1)346-704-6534}
+\email{chetan0706@gmail.com}
+\github{chetan0706}
+\linkedin{chetan-kansagara}
+%\skype{ishankhatri90}
+%\twitter{@enigma90}
+
+\position{Electrical Engineer {\enskip\cdotp\enskip} Instrumentation and Control Engineer} % Your expertise/fields
+
+%\quote{``Let the wind change its direction to chase you."} % A quote or statement
+
+% Make the change that you want to see in the world
+%----------------------------------------------------------------------------------------
+%	RECIPIENT/POSITION/LETTER INFORMATION
+%	All of the below lines must be filled out
+%----------------------------------------------------------------------------------------
+\newcommand{\companyname}{Schweitzer Engineering Laboratories}
+\newcommand{\positionname}{\textbf{Project Engineer - Automation}}%#L I-BJ1}
+\newcommand{\location}{Houston, TX, USA}
+
+\recipient{To, Hiring Manager at \companyname} 
+
+\letterdate{\today} % The date on the letter, default is the date of compilation
+
+\lettertitle{Job Application for \positionname} % The title of the letter]
+
+\letteropening{Dear Manager / Human Resources,} % How the letter is opened
+\letterclosing{Sincerely,} % How the letter is closed
+\letterenclosure[Attached]{Curriculum Vitae} % Any enclosures with the letter
+\makecvfooter{\today}{Chetan Kansagara~~~·~~~Cover Letter}{} % Specify the letter footer with 3 arguments: (<left>, <center>, <right>), leave any of these blank if they are not needed
+  
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\makecvheader % Print the header
+\makelettertitle % Print the title
+
+%----------------------------------------------------------------------------------------
+%	LETTER CONTENT
+%----------------------------------------------------------------------------------------
+
+\begin{cvletter}
+
+I’m excited to apply for the position of \textbf{\positionname}. %\textbf{Reference ID: 91124BR} My resume contains a detailed work history and my accomplishments.
+I have completed Master of Science in Electrical Engineering with more than 8 years of experience as Instrumentation and Control Engineer in all the stages of Engineering Design. I have extensive experience in creating engineering solution for process control systems. This has further motivated me to expand my knowledge in automation for power systems. In addition to this, I have academic knowledge to model power systems and microgrid using Matlab and AMPL. My recent internship experience involves application support for an IoT (Internet of Things) based next generation of SCADA for internal customers. I have keen interest in power system automation and protection where I can apply my past automation experience and academic knowledge to create next generation of power systems.
+
+\end{cvletter}
+
+\makeletterclosing % Print the signature and enclosures
+\end{document}
