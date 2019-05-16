@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.12.29)  13 MAY 2019 00:56
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.12.29)  13 MAY 2019 01:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**ck_cover_letter_ic.tex
-(./ck_cover_letter_ic.tex
+**ck_cover_letter_electrical.tex
+(./ck_cover_letter_electrical.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (./ishan-cl.cls
@@ -1077,8 +1077,8 @@ tly
 )
 \g__fontspec_family_Roboto_int=\count294
 )
-(./ck_cover_letter_ic.aux)
-\openout1 = `ck_cover_letter_ic.aux'.
+(./ck_cover_letter_electrical.aux)
+\openout1 = `ck_cover_letter_electrical.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
 LaTeX Font Info:    ... okay on input line 87.
@@ -1198,9 +1198,9 @@ LaTeX Info: Redefining \ref on input line 87.
 LaTeX Info: Redefining \pageref on input line 87.
 LaTeX Info: Redefining \nameref on input line 87.
 
-(./ck_cover_letter_ic.out) (./ck_cover_letter_ic.out)
+(./ck_cover_letter_electrical.out) (./ck_cover_letter_electrical.out)
 \@outlinefile=\write6
-\openout6 = `ck_cover_letter_ic.out'.
+\openout6 = `ck_cover_letter_electrical.out'.
 
 \headertextwidth=\skip79
 \headerphotowidth=\skip80
@@ -1258,32 +1258,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--91
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 101--106
 
  []
 
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 11.0pt on input line 116.
+(Font)              scaled to size 11.0pt on input line 106.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 116.
+(Font)              scaled to size 8.0pt on input line 106.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 116.
+(Font)              scaled to size 8.0pt on input line 106.
 [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 116.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 116.
- (./ck_cover_letter_ic.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 116.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 116.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
+ (./ck_cover_letter_electrical.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 106.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 106.
  ) 
 Here is how much of TeX's memory you used:
- 37899 strings out of 493007
- 747482 string characters out of 6136718
- 947913 words of memory out of 5000000
- 41405 multiletter control sequences out of 15000+600000
+ 37898 strings out of 493007
+ 747578 string characters out of 6136718
+ 945902 words of memory out of 5000000
+ 41404 multiletter control sequences out of 15000+600000
  534331 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,11n,89p,10437b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,11n,89p,10445b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on ck_cover_letter_ic.pdf (1 page).
+Output written on ck_cover_letter_electrical.pdf (1 page).
