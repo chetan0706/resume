@@ -171,40 +171,41 @@
 % For fundamental structures
 \newcommand*{\headerfirstnamestyle}[1]{{\fontsize{18pt}{1em}\headerfont\bfseries\color{darktext} #1}}
 \newcommand*{\headerlastnamestyle}[1]{{\fontsize{18pt}{1em}\headerfont\bfseries\color{text} #1}}
+\newcommand*{\headerprocertistyle}[1]{{\fontsize{12pt}{1em}\headerfont\bfseries\color{text} #1}}
 \newcommand*{\headerpositionstyle}[1]{{\fontsize{7.6pt}{1em}\bodyfont\scshape\color{awesome} #1}}
-\newcommand*{\headeraddressstyle}[1]{{\fontsize{8pt}{1em}\headerfont\itshape\color{lighttext} #1}}
-\newcommand*{\headersocialstyle}[1]{{\fontsize{6.8pt}{1em}\headerfont\color{text} #1}}
-\newcommand*{\headerquotestyle}[1]{{\fontsize{9pt}{1em}\bodyfont\itshape\color{darktext} #1}}
+\newcommand*{\headeraddressstyle}[1]{{\fontsize{10pt}{1em}\headerfont\itshape\color{lighttext} #1}}
+\newcommand*{\headersocialstyle}[1]{{\fontsize{10.8pt}{1em}\headerfont\color{text} #1}}
+\newcommand*{\headerquotestyle}[1]{{\fontsize{10.8pt}{1em}\bodyfont\itshape\color{darktext} #1}}
 \newcommand*{\footerstyle}[1]{{\fontsize{8pt}{1em}\footerfont\scshape\color{lighttext} #1}}
 \newcommand*{\sectionstyle}[1]{{\fontsize{14pt}{1em}\bodyfont\bfseries\color{text}\@sectioncolor #1}}
 \newcommand*{\subsectionstyle}[1]{{\fontsize{12pt}{1em}\bodyfont\scshape\textcolor{text}{#1}}}
-\newcommand*{\paragraphstyle}{\fontsize{9pt}{1em}\bodyfont\mdseries\color{darktext}}
+\newcommand*{\paragraphstyle}{\fontsize{11pt}{1em}\bodyfont\mdseries\color{darktext}}
 
 % For elements of entry
-\newcommand*{\entrytitlestyle}[1]{{\fontsize{10pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
-\newcommand*{\entrypositionstyle}[1]{{\fontsize{8pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
-\newcommand*{\entrydatestyle}[1]{{\fontsize{8pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
-\newcommand*{\entrylocationstyle}[1]{{\fontsize{9pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
-\newcommand*{\descriptionstyle}[1]{{\fontsize{9pt}{1em}\bodyfont\mdseries\color{darktext} #1}}
+\newcommand*{\entrytitlestyle}[1]{{\fontsize{11pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+\newcommand*{\entrypositionstyle}[1]{{\fontsize{10pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+\newcommand*{\entrydatestyle}[1]{{\fontsize{10pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+\newcommand*{\entrylocationstyle}[1]{{\fontsize{10pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+\newcommand*{\descriptionstyle}[1]{{\fontsize{10pt}{1em}\bodyfont\mdseries\color{darktext} #1}}
 \newcommand*{\projectstyle}[1]{{\fontsize{10pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
 
 % For elements of subentry
-\newcommand*{\subentrytitlestyle}[1]{{\fontsize{8pt}{1em}\bodyfont\mdseries\color{darktext} #1}}
-\newcommand*{\subentrypositionstyle}[1]{{\fontsize{7pt}{1em}\bodyfont\scshape\color{darktext} #1}}
-\newcommand*{\subentrydatestyle}[1]{{\fontsize{7pt}{1em}\bodyfont\mdseries\color{darktext} #1}}
-\newcommand*{\subentrylocationstyle}[1]{{\fontsize{7pt}{1em}\bodyfont\mdseries\color{darktext} #1}}
-\newcommand*{\subdescriptionstyle}[1]{{\fontsize{8pt}{1em}\bodyfont\mdseries\color{darktext} #1}}
+\newcommand*{\subentrytitlestyle}[1]{{\fontsize{11pt}{1em}\bodyfont\mdseries\color{darktext} #1}}
+\newcommand*{\subentrypositionstyle}[1]{{\fontsize{10pt}{1em}\bodyfont\scshape\color{darktext} #1}}
+\newcommand*{\subentrydatestyle}[1]{{\fontsize{10pt}{1em}\bodyfont\mdseries\color{darktext} #1}}
+\newcommand*{\subentrylocationstyle}[1]{{\fontsize{10pt}{1em}\bodyfont\mdseries\color{darktext} #1}}
+\newcommand*{\subdescriptionstyle}[1]{{\fontsize{10pt}{1em}\bodyfont\mdseries\color{darktext} #1}}
 
 % For elements of honor
-\newcommand*{\honortitlestyle}[1]{{\fontsize{9pt}{1em}\bodyfont\color{darktext} #1}}
-\newcommand*{\honorpositionstyle}[1]{{\fontsize{9pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
-\newcommand*{\honordatestyle}[1]{{\fontsize{9pt}{1em}\bodyfont\color{darktext} #1}}
-\newcommand*{\honorlocationstyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\slshape\color{awesome} #1}}
+\newcommand*{\honortitlestyle}[1]{{\fontsize{11pt}{1em}\bodyfont\color{darktext} #1}}
+\newcommand*{\honorpositionstyle}[1]{{\fontsize{10pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+\newcommand*{\honordatestyle}[1]{{\fontsize{10pt}{1em}\bodyfont\color{darktext} #1}}
+\newcommand*{\honorlocationstyle}[1]{{\fontsize{10pt}{1em}\bodyfontlight\slshape\color{awesome} #1}}
 
 % For elements of skill
-\newcommand*{\skilltypestyle}[1]{{\fontsize{10pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
+\newcommand*{\skilltypestyle}[1]{{\fontsize{11pt}{1em}\bodyfont\bfseries\color{darktext} #1}}
 %\newcommand*{\skillsetstyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\color{darktext} #1}}
-\newcommand*{\skillsetstyle}[1]{{\fontsize{9pt}{1em}\bodyfont\mdseries\color{darktext} #1}}
+\newcommand*{\skillsetstyle}[1]{{\fontsize{9.2pt}{1em}\bodyfont\mdseries\color{darktext} #1}}
 
 % For elements of the cover letter
 \newcommand*{\lettersectionstyle}[1]{{\fontsize{14pt}{1em}\bodyfont\bfseries\color{text}\@sectioncolor #1}}
@@ -242,9 +243,10 @@
 % Usage: \firstname{<firstname>}
 % Usage: \lastname{<lastname>}
 % Usage: \familyname{<familyname>}
-\newcommand*{\name}[2]{\def\@firstname{#1}\def\@lastname{#2}}
+\newcommand*{\name}[3]{\def\@firstname{#1}\def\@lastname{#2}\def\@procerti{#3}}
 \newcommand*{\firstname}[1]{\def\@firstname{#1}}
 \newcommand*{\lastname}[1]{\def\@lastname{#1}}
+\newcommand*{\procerti}[1]{\def\@procerti{#1}}
 \newcommand*{\familyname}[1]{\def\@lastname{#1}}
 \def\@familyname{\@lastname}
 
@@ -412,7 +414,7 @@
   \end{minipage}
   \begin{minipage}[c]{\headertextwidth}
     \ifthenelse{\equal{#1}{L}}{\raggedright}{\ifthenelse{\equal{#1}{R}}{\raggedleft}{\centering}}
-    \headerfirstnamestyle{\@firstname}\headerlastnamestyle{{}\acvHeaderNameDelim\@lastname}%
+    \headerfirstnamestyle{\@firstname}\headerlastnamestyle{{}\acvHeaderNameDelim\@lastname}\headerprocertistyle{{}\acvHeaderNameDelim\@procerti}%
     \\[\acvHeaderAfterNameSkip]%
     \ifthenelse{\isundefined{\@position}}{}{\headerpositionstyle{\@position\\[\acvHeaderAfterPositionSkip]}}%
     \ifthenelse{\isundefined{\@address}}{}{\headeraddressstyle{\@address\\[\acvHeaderAfterAddressSkip]}}%
@@ -548,7 +550,7 @@
 % Define an entry of cv information
 % Usage: \cventry{<position>}{<title>}{<location>}{<date>}{<description>}
 \newcommand*{\cvedu}[4]{%
-  \vspace{-2.0mm}
+  \vspace{-1.0mm}
   \setlength\tabcolsep{0pt}
   \setlength{\extrarowheight}{0pt}
   \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
@@ -560,10 +562,10 @@
   \end{tabular*}%
 }
 \newcommand*{\cventry}[5]{%
-	\vspace{-2.00mm}
+	\vspace{-1.00mm}
 	\setlength\tabcolsep{0pt}
 	\setlength{\extrarowheight}{0pt}
-	\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
+	\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 6.5cm} R{6.5cm}}
 		\ifempty{#2#3}
 		{\entrypositionstyle{#1} & \entrydatestyle{#4} \\}
 		{\entrytitlestyle{#2} & \entrylocationstyle{#3} \\
@@ -607,7 +609,7 @@
 % Define an environment for cvhonor
 \newenvironment{cvhonors}{%
   \vspace{\acvSectionContentTopSkip}
-  \vspace{-2mm}
+  \vspace{-1mm}
   \begin{center}
     \setlength\tabcolsep{0pt}
     \setlength{\extrarowheight}{0pt}
@@ -702,7 +704,7 @@
 \newcommand*{\makeletterclosing}{%
   \vspace{3.4mm}
   \lettertextstyle{\@letterclosing} \\\\
-  \letternamestyle{\@firstname\ \@lastname}
+  \letternamestyle{\@firstname\ \@lastname \@procerti}
   \ifthenelse{\isundefined{\@letterenclosure}}
     {\\}
     {%
