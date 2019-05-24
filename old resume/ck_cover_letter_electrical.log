@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.12.29)  13 MAY 2019 01:10
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.12.29)  24 MAY 2019 17:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1217,9 +1217,9 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 5.45381pt on input line 90.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 7.6pt on input line 90.
+(Font)              scaled to size 10.6pt on input line 90.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 7.6pt on input line 90.
+(Font)              scaled to size 10.6pt on input line 90.
 
 Overfull \hbox (1.46pt too wide) in paragraph at lines 90--90
 []$[]$ $[]$$[]$
@@ -1229,41 +1229,50 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 11.0pt on input line 90.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 11.0pt on input line 90.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 11.0pt on input line 90.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <11> not avai
-lable
-(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 90.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sl' in size <9> not avail
+able
+(Font)              Font shape `TU/SourceSansPro(1)/m/it' tried instead on inpu
 t line 90.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 11.0pt on input line 90.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/bx/n' will be
-(Font)              scaled to size 11.0pt on input line 90.
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 90.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/it' will be
+(Font)              scaled to size 9.0pt on input line 90.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 90.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
+(Font)              scaled to size 10.0pt on input line 90.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 11.00017pt on input line 90.
+(Font)              scaled to size 10.00015pt on input line 90.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.70007pt on input line 90.
+(Font)              scaled to size 7.0001pt on input line 90.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.50008pt on input line 90.
+(Font)              scaled to size 5.00008pt on input line 90.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.99983pt on input line 90.
+(Font)              scaled to size 9.99985pt on input line 90.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.69984pt on input line 90.
+(Font)              scaled to size 6.9999pt on input line 90.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.49991pt on input line 90.
+(Font)              scaled to size 4.99992pt on input line 90.
 
 Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 105.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <10> not avai
+lable
+(Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
+t line 105.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 105.
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--106
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 11.0pt on input line 106.
+(Font)              scaled to size 10.0pt on input line 106.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 8.0pt on input line 106.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
@@ -1278,11 +1287,11 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 106.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 106.
  ) 
 Here is how much of TeX's memory you used:
- 37898 strings out of 493007
- 747578 string characters out of 6136718
- 945902 words of memory out of 5000000
- 41404 multiletter control sequences out of 15000+600000
- 534331 words of font info for 88 fonts, out of 8000000 for 9000
+ 37907 strings out of 493007
+ 747935 string characters out of 6136718
+ 947548 words of memory out of 5000000
+ 41410 multiletter control sequences out of 15000+600000
+ 533283 words of font info for 88 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,11n,89p,10445b,326s stack positions out of 5000i,500n,10000p,200000b,80000s
 
